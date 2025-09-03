@@ -6,5 +6,10 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "aiogram>=3.22.0",
+    "alembic>=1.16.5",
+    "asyncpg>=0.30.0",
+    "greenlet>=3.2.4",
+    "lxmlsoup>=1.6",
     "ruff>=0.12.11",
+    "sqlalchemy>=2.0.43",
 ]
